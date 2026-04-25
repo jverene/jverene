@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 140" width="860" height="140">
+  <style>
+    text {
+      font-family: "Courier New", Courier, monospace;
+      font-size: 14px;
+      fill: #C8C8C8;
+      white-space: pre;
+    }
+  </style>
+  <rect width="860" height="140" fill="#0D0D0D"/>
+  <text x="103" y="34"> ___ ___                                   ____.__                       </text>
+  <text x="103" y="51">/   |   \_____ ______________ ___.__.     |    |__|____    ____    ____  </text>
+  <text x="103" y="68">/    ~    \__  \\_  __ \_  __ &lt;   |  |     |    |  \__  \  /    \  / ___\ </text>
+  <text x="103" y="85">\    Y    // __ \|  | \/|  | \/\___  | /\__|    |  |/ __ \|   |  \/ /_/  &gt;</text>
+  <text x="103" y="102"> \___|_  /(____  /__|   |__|   / ____| \________|__(____  /___|  /\___  / </text>
+  <text x="103" y="119">       \/      \/              \/                       \/     \//_____/  </text>
+</svg>
